@@ -1,0 +1,3531 @@
+[
+ {
+  "name": "Apple iPhone 15 128GB",
+  "brand": "Apple",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 48852,
+  "rating": 4.6,
+  "popularity": 98,
+  "specs": [
+   "6.1-inch OLED",
+   "A16 Bionic",
+   "48MP camera",
+   "USB-C"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 42990,
+    "delivery": 0,
+    "discountPct": 12,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 41999,
+    "delivery": 799,
+    "discountPct": 15,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 43490,
+    "delivery": 0,
+    "discountPct": 8,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 43990,
+    "delivery": 0,
+    "discountPct": 6,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Apple iPhone 17 256GB",
+  "brand": "Apple",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 89900,
+  "rating": 4.7,
+  "popularity": 95,
+  "specs": [
+   "6.3-inch display",
+   "A19 chip",
+   "256GB storage",
+   "Dual camera"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 82900,
+    "delivery": 0,
+    "discountPct": 8,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 81990,
+    "delivery": 499,
+    "discountPct": 9,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 84900,
+    "delivery": 0,
+    "discountPct": 6,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 83990,
+    "delivery": 0,
+    "discountPct": 7,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Samsung Galaxy S24 5G",
+  "brand": "Samsung",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 79999,
+  "rating": 4.5,
+  "popularity": 90,
+  "specs": [
+   "6.2-inch AMOLED",
+   "Exynos 2400",
+   "50MP camera",
+   "8GB RAM"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 62999,
+    "delivery": 0,
+    "discountPct": 21,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 61499,
+    "delivery": 0,
+    "discountPct": 23,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 64990,
+    "delivery": 0,
+    "discountPct": 19,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 63990,
+    "delivery": 0,
+    "discountPct": 20,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "OnePlus 12R 5G",
+  "brand": "OnePlus",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 45999,
+  "rating": 4.4,
+  "popularity": 80,
+  "specs": [
+   "6.78-inch 120Hz",
+   "Snapdragon 8 Gen 2",
+   "5500mAh",
+   "100W charging"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 39999,
+    "delivery": 0,
+    "discountPct": 13,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 38999,
+    "delivery": 40,
+    "discountPct": 15,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 41999,
+    "delivery": 0,
+    "discountPct": 9,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 42499,
+    "delivery": 0,
+    "discountPct": 8,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "HP Pavilion 15 Laptop",
+  "brand": "HP",
+  "category": "Laptops",
+  "emoji": "💻",
+  "mrp": 74990,
+  "rating": 4.3,
+  "popularity": 70,
+  "specs": [
+   "Core i5 13th Gen",
+   "16GB RAM",
+   "512GB SSD",
+   "15.6-inch FHD"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 56990,
+    "delivery": 0,
+    "discountPct": 24,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 55990,
+    "delivery": 0,
+    "discountPct": 25,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 59990,
+    "delivery": 0,
+    "discountPct": 20,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 58990,
+    "delivery": 0,
+    "discountPct": 21,
+    "seller": "Reliance Retail",
+    "inStock": false
+   }
+  ]
+ },
+ {
+  "name": "Dell Inspiron 15 Laptop",
+  "brand": "Dell",
+  "category": "Laptops",
+  "emoji": "💻",
+  "mrp": 68990,
+  "rating": 4.2,
+  "popularity": 66,
+  "specs": [
+   "Core i5",
+   "16GB RAM",
+   "512GB SSD",
+   "Windows 11"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 49990,
+    "delivery": 0,
+    "discountPct": 28,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 48990,
+    "delivery": 0,
+    "discountPct": 29,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 52990,
+    "delivery": 0,
+    "discountPct": 23,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 51990,
+    "delivery": 0,
+    "discountPct": 25,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Apple MacBook Air M2",
+  "brand": "Apple",
+  "category": "Laptops",
+  "emoji": "💻",
+  "mrp": 114900,
+  "rating": 4.8,
+  "popularity": 92,
+  "specs": [
+   "M2 chip",
+   "8GB RAM",
+   "256GB SSD",
+   "13.6-inch Retina"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 89990,
+    "delivery": 0,
+    "discountPct": 22,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 92990,
+    "delivery": 0,
+    "discountPct": 19,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 94900,
+    "delivery": 0,
+    "discountPct": 17,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 93900,
+    "delivery": 0,
+    "discountPct": 18,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Sony WH-1000XM5 Headphones",
+  "brand": "Sony",
+  "category": "Electronics",
+  "emoji": "🎧",
+  "mrp": 34990,
+  "rating": 4.6,
+  "popularity": 85,
+  "specs": [
+   "Noise cancelling",
+   "30h battery",
+   "Bluetooth 5.2",
+   "Multipoint"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 24990,
+    "delivery": 0,
+    "discountPct": 29,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 26490,
+    "delivery": 0,
+    "discountPct": 24,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 25990,
+    "delivery": 0,
+    "discountPct": 26,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 27990,
+    "delivery": 0,
+    "discountPct": 20,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Noise ColorFit Pro 5 Smartwatch",
+  "brand": "Noise",
+  "category": "Watches",
+  "emoji": "⌚",
+  "mrp": 7999,
+  "rating": 4,
+  "popularity": 75,
+  "specs": [
+   "1.85-inch AMOLED",
+   "Bluetooth calling",
+   "7-day battery",
+   "IP68"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 2999,
+    "delivery": 0,
+    "discountPct": 63,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 2799,
+    "delivery": 0,
+    "discountPct": 65,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 3499,
+    "delivery": 0,
+    "discountPct": 56,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 3299,
+    "delivery": 0,
+    "discountPct": 59,
+    "seller": "Reliance Retail",
+    "inStock": false
+   }
+  ]
+ },
+ {
+  "name": "Nike Air Max Running Shoes",
+  "brand": "Nike",
+  "category": "Shoes",
+  "emoji": "👟",
+  "mrp": 11995,
+  "rating": 4.4,
+  "popularity": 72,
+  "specs": [
+   "Mesh upper",
+   "Air cushioning",
+   "Rubber outsole",
+   "Men’s sizes 6-11"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 7999,
+    "delivery": 0,
+    "discountPct": 33,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 8499,
+    "delivery": 99,
+    "discountPct": 29,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 7199,
+    "delivery": 0,
+    "discountPct": 40,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 7499,
+    "delivery": 0,
+    "discountPct": 37,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Puma RS-X Sneakers",
+  "brand": "Puma",
+  "category": "Shoes",
+  "emoji": "👟",
+  "mrp": 8999,
+  "rating": 4.2,
+  "popularity": 60,
+  "specs": [
+   "Retro design",
+   "Cushioned midsole",
+   "Lace-up",
+   "Unisex"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 5399,
+    "delivery": 0,
+    "discountPct": 40,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 5199,
+    "delivery": 0,
+    "discountPct": 42,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 4499,
+    "delivery": 0,
+    "discountPct": 50,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 4799,
+    "delivery": 99,
+    "discountPct": 47,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Levi’s 511 Slim Fit Jeans",
+  "brand": "Levi’s",
+  "category": "Fashion",
+  "emoji": "👕",
+  "mrp": 3599,
+  "rating": 4.3,
+  "popularity": 64,
+  "specs": [
+   "Slim fit",
+   "Stretch denim",
+   "Mid rise",
+   "Machine washable"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 1899,
+    "delivery": 0,
+    "discountPct": 47,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 1799,
+    "delivery": 0,
+    "discountPct": 50,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 1699,
+    "delivery": 0,
+    "discountPct": 53,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 1749,
+    "delivery": 0,
+    "discountPct": 51,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "LG 1.5 Ton 5-Star Split AC",
+  "brand": "LG",
+  "category": "Home Appliances",
+  "emoji": "❄️",
+  "mrp": 56990,
+  "rating": 4.3,
+  "popularity": 68,
+  "specs": [
+   "Inverter compressor",
+   "5-star rating",
+   "Dual inverter",
+   "Copper condenser"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 38990,
+    "delivery": 0,
+    "discountPct": 32,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 37490,
+    "delivery": 999,
+    "discountPct": 34,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 41990,
+    "delivery": 0,
+    "discountPct": 26,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 40990,
+    "delivery": 0,
+    "discountPct": 28,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "boAt Airdopes 141 Earbuds",
+  "brand": "boAt",
+  "category": "Accessories",
+  "emoji": "🎒",
+  "mrp": 4490,
+  "rating": 4.1,
+  "popularity": 88,
+  "specs": [
+   "42h playback",
+   "ENx noise reduction",
+   "Bluetooth 5.3",
+   "IPX4"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 1099,
+    "delivery": 0,
+    "discountPct": 76,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 999,
+    "delivery": 49,
+    "discountPct": 78,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 1499,
+    "delivery": 0,
+    "discountPct": 67,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 1299,
+    "delivery": 0,
+    "discountPct": 71,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Samsung Galaxy A55 5G",
+  "brand": "Samsung",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 44999,
+  "rating": 4.5,
+  "popularity": 53,
+  "specs": [
+   "6.6-inch AMOLED",
+   "Exynos 1480",
+   "50MP OIS camera",
+   "5000mAh"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 33399,
+    "delivery": 99,
+    "discountPct": 26,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 34499,
+    "delivery": 0,
+    "discountPct": 23,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 34599,
+    "delivery": 0,
+    "discountPct": 23,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 35399,
+    "delivery": 0,
+    "discountPct": 21,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Samsung Galaxy M35 5G",
+  "brand": "Samsung",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 24999,
+  "rating": 4.3,
+  "popularity": 57,
+  "specs": [
+   "6.6-inch sAMOLED",
+   "Exynos 1380",
+   "6000mAh",
+   "50MP camera"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 17299,
+    "delivery": 99,
+    "discountPct": 31,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 16799,
+    "delivery": 149,
+    "discountPct": 33,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 16699,
+    "delivery": 0,
+    "discountPct": 33,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 16799,
+    "delivery": 99,
+    "discountPct": 33,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "OnePlus Nord CE4",
+  "brand": "OnePlus",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 26999,
+  "rating": 4,
+  "popularity": 77,
+  "specs": [
+   "6.7-inch AMOLED",
+   "Snapdragon 7 Gen 3",
+   "100W charging"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 23399,
+    "delivery": 49,
+    "discountPct": 13,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 23699,
+    "delivery": 0,
+    "discountPct": 12,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 23499,
+    "delivery": 0,
+    "discountPct": 13,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 23599,
+    "delivery": 99,
+    "discountPct": 13,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Redmi Note 13 Pro+ 5G",
+  "brand": "Xiaomi",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 37999,
+  "rating": 4.1,
+  "popularity": 88,
+  "specs": [
+   "1.5K AMOLED",
+   "200MP camera",
+   "120W charging"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 27499,
+    "delivery": 0,
+    "discountPct": 28,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 27699,
+    "delivery": 40,
+    "discountPct": 27,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 28999,
+    "delivery": 0,
+    "discountPct": 24,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 30199,
+    "delivery": 40,
+    "discountPct": 21,
+    "seller": "Reliance Retail",
+    "inStock": false
+   }
+  ]
+ },
+ {
+  "name": "Realme 13 Pro 5G",
+  "brand": "Realme",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 28999,
+  "rating": 4.5,
+  "popularity": 49,
+  "specs": [
+   "6.7-inch AMOLED",
+   "50MP Sony camera",
+   "5200mAh"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 25699,
+    "delivery": 0,
+    "discountPct": 11,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 24199,
+    "delivery": 0,
+    "discountPct": 17,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 23799,
+    "delivery": 0,
+    "discountPct": 18,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 24199,
+    "delivery": 149,
+    "discountPct": 17,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Google Pixel 8a",
+  "brand": "Google",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 52999,
+  "rating": 4.5,
+  "popularity": 45,
+  "specs": [
+   "6.1-inch OLED",
+   "Tensor G3",
+   "7 years of updates"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 42199,
+    "delivery": 0,
+    "discountPct": 20,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 45099,
+    "delivery": 0,
+    "discountPct": 15,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 43899,
+    "delivery": 0,
+    "discountPct": 17,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 46299,
+    "delivery": 0,
+    "discountPct": 13,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Vivo V40",
+  "brand": "Vivo",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 39999,
+  "rating": 4.5,
+  "popularity": 59,
+  "specs": [
+   "6.78-inch AMOLED",
+   "50MP Zeiss camera",
+   "5500mAh"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 35799,
+    "delivery": 0,
+    "discountPct": 11,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 36899,
+    "delivery": 0,
+    "discountPct": 8,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 34699,
+    "delivery": 49,
+    "discountPct": 13,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 36899,
+    "delivery": 0,
+    "discountPct": 8,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Oppo Reno 12",
+  "brand": "Oppo",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 40999,
+  "rating": 4.7,
+  "popularity": 48,
+  "specs": [
+   "6.7-inch AMOLED",
+   "50MP portrait camera",
+   "80W charging"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 33099,
+    "delivery": 0,
+    "discountPct": 19,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 34499,
+    "delivery": 0,
+    "discountPct": 16,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 34299,
+    "delivery": 0,
+    "discountPct": 16,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 33199,
+    "delivery": 0,
+    "discountPct": 19,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Motorola Edge 50 Fusion",
+  "brand": "Motorola",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 27999,
+  "rating": 4,
+  "popularity": 51,
+  "specs": [
+   "6.7-inch pOLED",
+   "Snapdragon 7s Gen 2",
+   "68W charging"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 21999,
+    "delivery": 149,
+    "discountPct": 21,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 20999,
+    "delivery": 0,
+    "discountPct": 25,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 20799,
+    "delivery": 0,
+    "discountPct": 26,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 22599,
+    "delivery": 0,
+    "discountPct": 19,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "iQOO Neo 9 Pro",
+  "brand": "iQOO",
+  "category": "Mobiles",
+  "emoji": "📱",
+  "mrp": 39999,
+  "rating": 4.5,
+  "popularity": 90,
+  "specs": [
+   "6.78-inch 144Hz",
+   "Snapdragon 8 Gen 2",
+   "120W charging"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 34899,
+    "delivery": 0,
+    "discountPct": 13,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 36999,
+    "delivery": 0,
+    "discountPct": 8,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 35399,
+    "delivery": 0,
+    "discountPct": 12,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 34599,
+    "delivery": 0,
+    "discountPct": 14,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Lenovo IdeaPad Slim 3",
+  "brand": "Lenovo",
+  "category": "Laptops",
+  "emoji": "💻",
+  "mrp": 64990,
+  "rating": 4.3,
+  "popularity": 77,
+  "specs": [
+   "Core i5",
+   "16GB RAM",
+   "512GB SSD",
+   "15.6-inch FHD"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 44599,
+    "delivery": 499,
+    "discountPct": 31,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 41399,
+    "delivery": 0,
+    "discountPct": 36,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 42899,
+    "delivery": 0,
+    "discountPct": 34,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 43799,
+    "delivery": 799,
+    "discountPct": 33,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "ASUS Vivobook 15",
+  "brand": "ASUS",
+  "category": "Laptops",
+  "emoji": "💻",
+  "mrp": 62990,
+  "rating": 4.7,
+  "popularity": 89,
+  "specs": [
+   "Core i5",
+   "16GB RAM",
+   "512GB SSD",
+   "Backlit keyboard"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 45599,
+    "delivery": 0,
+    "discountPct": 28,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 42699,
+    "delivery": 299,
+    "discountPct": 32,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 45199,
+    "delivery": 499,
+    "discountPct": 28,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 44499,
+    "delivery": 0,
+    "discountPct": 29,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Acer Aspire 5",
+  "brand": "Acer",
+  "category": "Laptops",
+  "emoji": "💻",
+  "mrp": 59990,
+  "rating": 4.1,
+  "popularity": 88,
+  "specs": [
+   "Core i5",
+   "8GB RAM",
+   "512GB SSD",
+   "Slim metal body"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 42199,
+    "delivery": 499,
+    "discountPct": 30,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 40099,
+    "delivery": 499,
+    "discountPct": 33,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 40799,
+    "delivery": 0,
+    "discountPct": 32,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 40799,
+    "delivery": 299,
+    "discountPct": 32,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "HP 15s Ryzen 5",
+  "brand": "HP",
+  "category": "Laptops",
+  "emoji": "💻",
+  "mrp": 56990,
+  "rating": 4.1,
+  "popularity": 90,
+  "specs": [
+   "Ryzen 5",
+   "16GB RAM",
+   "512GB SSD",
+   "15.6-inch"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 39699,
+    "delivery": 0,
+    "discountPct": 30,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 39499,
+    "delivery": 799,
+    "discountPct": 31,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 38699,
+    "delivery": 0,
+    "discountPct": 32,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 40899,
+    "delivery": 0,
+    "discountPct": 28,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Dell XPS 13",
+  "brand": "Dell",
+  "category": "Laptops",
+  "emoji": "💻",
+  "mrp": 139990,
+  "rating": 4.4,
+  "popularity": 62,
+  "specs": [
+   "Core Ultra 7",
+   "16GB RAM",
+   "512GB SSD",
+   "13.4-inch OLED"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 117699,
+    "delivery": 0,
+    "discountPct": 16,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 114499,
+    "delivery": 299,
+    "discountPct": 18,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 118099,
+    "delivery": 0,
+    "discountPct": 16,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 122099,
+    "delivery": 299,
+    "discountPct": 13,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "MSI Thin GF63 Gaming",
+  "brand": "MSI",
+  "category": "Laptops",
+  "emoji": "💻",
+  "mrp": 74990,
+  "rating": 4.2,
+  "popularity": 60,
+  "specs": [
+   "Core i5",
+   "RTX 4050",
+   "16GB RAM",
+   "144Hz display"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 61499,
+    "delivery": 799,
+    "discountPct": 18,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 63099,
+    "delivery": 0,
+    "discountPct": 16,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 62099,
+    "delivery": 0,
+    "discountPct": 17,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 63199,
+    "delivery": 799,
+    "discountPct": 16,
+    "seller": "Reliance Retail",
+    "inStock": false
+   }
+  ]
+ },
+ {
+  "name": "Apple MacBook Pro 14 M3",
+  "brand": "Apple",
+  "category": "Laptops",
+  "emoji": "💻",
+  "mrp": 169900,
+  "rating": 4.7,
+  "popularity": 88,
+  "specs": [
+   "M3 chip",
+   "8GB RAM",
+   "512GB SSD",
+   "Liquid Retina XDR"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 150899,
+    "delivery": 499,
+    "discountPct": 11,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 155599,
+    "delivery": 499,
+    "discountPct": 8,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 148199,
+    "delivery": 799,
+    "discountPct": 13,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 147099,
+    "delivery": 0,
+    "discountPct": 13,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Apple AirPods Pro 2",
+  "brand": "Apple",
+  "category": "Electronics",
+  "emoji": "🎧",
+  "mrp": 26900,
+  "rating": 4.7,
+  "popularity": 93,
+  "specs": [
+   "Active noise cancellation",
+   "USB-C case",
+   "Adaptive audio"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 21899,
+    "delivery": 0,
+    "discountPct": 19,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 21699,
+    "delivery": 0,
+    "discountPct": 19,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 20599,
+    "delivery": 0,
+    "discountPct": 23,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 22199,
+    "delivery": 0,
+    "discountPct": 17,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "JBL Flip 6 Speaker",
+  "brand": "JBL",
+  "category": "Electronics",
+  "emoji": "🎧",
+  "mrp": 14999,
+  "rating": 4,
+  "popularity": 79,
+  "specs": [
+   "Waterproof",
+   "12h playtime",
+   "PartyBoost"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 9499,
+    "delivery": 0,
+    "discountPct": 37,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 9299,
+    "delivery": 99,
+    "discountPct": 38,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 9399,
+    "delivery": 49,
+    "discountPct": 37,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 9499,
+    "delivery": 0,
+    "discountPct": 37,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Bose QuietComfort Headphones",
+  "brand": "Bose",
+  "category": "Electronics",
+  "emoji": "🎧",
+  "mrp": 35900,
+  "rating": 4.4,
+  "popularity": 79,
+  "specs": [
+   "Noise cancelling",
+   "24h battery",
+   "Bluetooth 5.1"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 29799,
+    "delivery": 40,
+    "discountPct": 17,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 27499,
+    "delivery": 0,
+    "discountPct": 23,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 29099,
+    "delivery": 49,
+    "discountPct": 19,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 27999,
+    "delivery": 0,
+    "discountPct": 22,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Sony Bravia 43-inch 4K TV",
+  "brand": "Sony",
+  "category": "Electronics",
+  "emoji": "🎧",
+  "mrp": 75900,
+  "rating": 4.6,
+  "popularity": 79,
+  "specs": [
+   "4K HDR",
+   "Google TV",
+   "Dolby Audio"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 47099,
+    "delivery": 49,
+    "discountPct": 38,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 45299,
+    "delivery": 0,
+    "discountPct": 40,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 49399,
+    "delivery": 0,
+    "discountPct": 35,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 49599,
+    "delivery": 0,
+    "discountPct": 35,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Samsung 55-inch Crystal 4K TV",
+  "brand": "Samsung",
+  "category": "Electronics",
+  "emoji": "🎧",
+  "mrp": 74900,
+  "rating": 4.1,
+  "popularity": 51,
+  "specs": [
+   "4K UHD",
+   "Crystal processor",
+   "Smart TV"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 46699,
+    "delivery": 0,
+    "discountPct": 38,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 48399,
+    "delivery": 40,
+    "discountPct": 35,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 46399,
+    "delivery": 0,
+    "discountPct": 38,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 44799,
+    "delivery": 0,
+    "discountPct": 40,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "LG 43-inch 4K Smart TV",
+  "brand": "LG",
+  "category": "Electronics",
+  "emoji": "🎧",
+  "mrp": 59990,
+  "rating": 3.9,
+  "popularity": 53,
+  "specs": [
+   "4K UHD",
+   "webOS",
+   "AI processor"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 31799,
+    "delivery": 0,
+    "discountPct": 47,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 31699,
+    "delivery": 0,
+    "discountPct": 47,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 31999,
+    "delivery": 0,
+    "discountPct": 47,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 31799,
+    "delivery": 99,
+    "discountPct": 47,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Canon EOS R50 Camera",
+  "brand": "Canon",
+  "category": "Electronics",
+  "emoji": "🎧",
+  "mrp": 82995,
+  "rating": 4.1,
+  "popularity": 83,
+  "specs": [
+   "24.2MP",
+   "4K video",
+   "Mirrorless",
+   "Kit lens"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 72899,
+    "delivery": 0,
+    "discountPct": 12,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 71599,
+    "delivery": 0,
+    "discountPct": 14,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 72499,
+    "delivery": 0,
+    "discountPct": 13,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 69099,
+    "delivery": 99,
+    "discountPct": 17,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Sony PlayStation 5 Slim",
+  "brand": "Sony",
+  "category": "Electronics",
+  "emoji": "🎧",
+  "mrp": 54990,
+  "rating": 4.3,
+  "popularity": 72,
+  "specs": [
+   "1TB SSD",
+   "4K gaming",
+   "Disc edition"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 51599,
+    "delivery": 49,
+    "discountPct": 6,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 53699,
+    "delivery": 99,
+    "discountPct": 2,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 51499,
+    "delivery": 0,
+    "discountPct": 6,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 49999,
+    "delivery": 40,
+    "discountPct": 9,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Apple Watch Series 9",
+  "brand": "Apple",
+  "category": "Watches",
+  "emoji": "⌚",
+  "mrp": 41900,
+  "rating": 4.2,
+  "popularity": 72,
+  "specs": [
+   "Always-on display",
+   "S9 chip",
+   "ECG",
+   "GPS"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 33699,
+    "delivery": 0,
+    "discountPct": 20,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 33299,
+    "delivery": 0,
+    "discountPct": 21,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 34899,
+    "delivery": 0,
+    "discountPct": 17,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 33299,
+    "delivery": 49,
+    "discountPct": 21,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Samsung Galaxy Watch 6",
+  "brand": "Samsung",
+  "category": "Watches",
+  "emoji": "⌚",
+  "mrp": 29999,
+  "rating": 4.1,
+  "popularity": 86,
+  "specs": [
+   "1.5-inch AMOLED",
+   "Sleep tracking",
+   "Wear OS"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 18699,
+    "delivery": 0,
+    "discountPct": 38,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 18499,
+    "delivery": 149,
+    "discountPct": 38,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 18999,
+    "delivery": 99,
+    "discountPct": 37,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 18699,
+    "delivery": 0,
+    "discountPct": 38,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Fire-Boltt Ninja Call Pro",
+  "brand": "Fire-Boltt",
+  "category": "Watches",
+  "emoji": "⌚",
+  "mrp": 9999,
+  "rating": 4.4,
+  "popularity": 56,
+  "specs": [
+   "Bluetooth calling",
+   "1.83-inch display",
+   "100 sports modes"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 1339,
+    "delivery": 0,
+    "discountPct": 87,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 1339,
+    "delivery": 0,
+    "discountPct": 87,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 1289,
+    "delivery": 0,
+    "discountPct": 87,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 1309,
+    "delivery": 149,
+    "discountPct": 87,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Fastrack Reflex Vox 2",
+  "brand": "Fastrack",
+  "category": "Watches",
+  "emoji": "⌚",
+  "mrp": 6995,
+  "rating": 4.1,
+  "popularity": 75,
+  "specs": [
+   "Alexa built in",
+   "1.7-inch display",
+   "7-day battery"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 3089,
+    "delivery": 149,
+    "discountPct": 56,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 3049,
+    "delivery": 149,
+    "discountPct": 56,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 3059,
+    "delivery": 149,
+    "discountPct": 56,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 2999,
+    "delivery": 149,
+    "discountPct": 57,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Titan Neo Analog Watch",
+  "brand": "Titan",
+  "category": "Watches",
+  "emoji": "⌚",
+  "mrp": 7995,
+  "rating": 4.3,
+  "popularity": 87,
+  "specs": [
+   "Analog",
+   "Leather strap",
+   "Water resistant"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 5899,
+    "delivery": 0,
+    "discountPct": 26,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 6199,
+    "delivery": 0,
+    "discountPct": 22,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 6199,
+    "delivery": 149,
+    "discountPct": 22,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 6499,
+    "delivery": 0,
+    "discountPct": 19,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Casio G-Shock GA-2100",
+  "brand": "Casio",
+  "category": "Watches",
+  "emoji": "⌚",
+  "mrp": 11995,
+  "rating": 4.7,
+  "popularity": 45,
+  "specs": [
+   "Carbon core guard",
+   "200m water resistance",
+   "LED light"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 10399,
+    "delivery": 0,
+    "discountPct": 13,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 10299,
+    "delivery": 149,
+    "discountPct": 14,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 10099,
+    "delivery": 0,
+    "discountPct": 16,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 9999,
+    "delivery": 0,
+    "discountPct": 17,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Adidas Ultraboost Light",
+  "brand": "Adidas",
+  "category": "Shoes",
+  "emoji": "👟",
+  "mrp": 17999,
+  "rating": 4.1,
+  "popularity": 63,
+  "specs": [
+   "Boost cushioning",
+   "Primeknit upper",
+   "Running"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 12799,
+    "delivery": 0,
+    "discountPct": 29,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 11899,
+    "delivery": 0,
+    "discountPct": 34,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 11899,
+    "delivery": 0,
+    "discountPct": 34,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 12099,
+    "delivery": 0,
+    "discountPct": 33,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Reebok Zig Kinetica",
+  "brand": "Reebok",
+  "category": "Shoes",
+  "emoji": "👟",
+  "mrp": 9999,
+  "rating": 4.5,
+  "popularity": 73,
+  "specs": [
+   "Zig energy cushioning",
+   "Running",
+   "Men"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 5099,
+    "delivery": 0,
+    "discountPct": 49,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 5359,
+    "delivery": 0,
+    "discountPct": 46,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 5029,
+    "delivery": 49,
+    "discountPct": 50,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 5249,
+    "delivery": 0,
+    "discountPct": 48,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Skechers Go Walk",
+  "brand": "Skechers",
+  "category": "Shoes",
+  "emoji": "👟",
+  "mrp": 6999,
+  "rating": 4.7,
+  "popularity": 74,
+  "specs": [
+   "Lightweight",
+   "Slip-on",
+   "Walking"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 4289,
+    "delivery": 0,
+    "discountPct": 39,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 4219,
+    "delivery": 99,
+    "discountPct": 40,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 4329,
+    "delivery": 149,
+    "discountPct": 38,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 4319,
+    "delivery": 99,
+    "discountPct": 38,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Asics Gel-Contend 8",
+  "brand": "Asics",
+  "category": "Shoes",
+  "emoji": "👟",
+  "mrp": 5999,
+  "rating": 4.6,
+  "popularity": 80,
+  "specs": [
+   "Gel cushioning",
+   "Mesh upper",
+   "Running"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 4109,
+    "delivery": 149,
+    "discountPct": 32,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 4159,
+    "delivery": 99,
+    "discountPct": 31,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 4049,
+    "delivery": 0,
+    "discountPct": 33,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 3999,
+    "delivery": 40,
+    "discountPct": 33,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Bata Formal Oxford",
+  "brand": "Bata",
+  "category": "Shoes",
+  "emoji": "👟",
+  "mrp": 2999,
+  "rating": 4.1,
+  "popularity": 94,
+  "specs": [
+   "Leather",
+   "Lace-up",
+   "Formal"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 2019,
+    "delivery": 49,
+    "discountPct": 33,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 1909,
+    "delivery": 149,
+    "discountPct": 36,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 1969,
+    "delivery": 0,
+    "discountPct": 34,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 1959,
+    "delivery": 0,
+    "discountPct": 35,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Crocs Classic Clog",
+  "brand": "Crocs",
+  "category": "Shoes",
+  "emoji": "👟",
+  "mrp": 3995,
+  "rating": 4.1,
+  "popularity": 54,
+  "specs": [
+   "Lightweight",
+   "Ventilated",
+   "Unisex"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 2839,
+    "delivery": 99,
+    "discountPct": 29,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 2999,
+    "delivery": 99,
+    "discountPct": 25,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 2899,
+    "delivery": 0,
+    "discountPct": 27,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 2769,
+    "delivery": 99,
+    "discountPct": 31,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Allen Solly Formal Shirt",
+  "brand": "Allen Solly",
+  "category": "Fashion",
+  "emoji": "👕",
+  "mrp": 2299,
+  "rating": 4.4,
+  "popularity": 80,
+  "specs": [
+   "Regular fit",
+   "Cotton blend",
+   "Full sleeve"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 1159,
+    "delivery": 0,
+    "discountPct": 50,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 1109,
+    "delivery": 0,
+    "discountPct": 52,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 1189,
+    "delivery": 0,
+    "discountPct": 48,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 1089,
+    "delivery": 0,
+    "discountPct": 53,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Van Heusen Slim Fit Shirt",
+  "brand": "Van Heusen",
+  "category": "Fashion",
+  "emoji": "👕",
+  "mrp": 2499,
+  "rating": 4.7,
+  "popularity": 60,
+  "specs": [
+   "Slim fit",
+   "Wrinkle resistant",
+   "Formal"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 1189,
+    "delivery": 0,
+    "discountPct": 52,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 1289,
+    "delivery": 0,
+    "discountPct": 48,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 1219,
+    "delivery": 0,
+    "discountPct": 51,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 1189,
+    "delivery": 0,
+    "discountPct": 52,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Roadster Hoodie",
+  "brand": "Roadster",
+  "category": "Fashion",
+  "emoji": "👕",
+  "mrp": 1999,
+  "rating": 4.4,
+  "popularity": 62,
+  "specs": [
+   "Fleece",
+   "Kangaroo pocket",
+   "Regular fit"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 969,
+    "delivery": 0,
+    "discountPct": 52,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 889,
+    "delivery": 0,
+    "discountPct": 56,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 939,
+    "delivery": 0,
+    "discountPct": 53,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 939,
+    "delivery": 0,
+    "discountPct": 53,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "U.S. Polo Assn. Polo T-Shirt",
+  "brand": "U.S. Polo Assn.",
+  "category": "Fashion",
+  "emoji": "👕",
+  "mrp": 2499,
+  "rating": 4.6,
+  "popularity": 57,
+  "specs": [
+   "Cotton",
+   "Slim fit",
+   "Half sleeve"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 1149,
+    "delivery": 0,
+    "discountPct": 54,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 1119,
+    "delivery": 0,
+    "discountPct": 55,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 1159,
+    "delivery": 49,
+    "discountPct": 54,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 1109,
+    "delivery": 49,
+    "discountPct": 56,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "W Women Kurta Set",
+  "brand": "W",
+  "category": "Fashion",
+  "emoji": "👕",
+  "mrp": 2999,
+  "rating": 4.1,
+  "popularity": 88,
+  "specs": [
+   "Cotton",
+   "Straight kurta",
+   "Set of 2"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 1569,
+    "delivery": 0,
+    "discountPct": 48,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 1589,
+    "delivery": 149,
+    "discountPct": 47,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 1509,
+    "delivery": 49,
+    "discountPct": 50,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 1479,
+    "delivery": 40,
+    "discountPct": 51,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Biba Anarkali Kurta",
+  "brand": "Biba",
+  "category": "Fashion",
+  "emoji": "👕",
+  "mrp": 3499,
+  "rating": 4,
+  "popularity": 86,
+  "specs": [
+   "Printed",
+   "Flared",
+   "Cotton blend"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 1859,
+    "delivery": 0,
+    "discountPct": 47,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 1799,
+    "delivery": 0,
+    "discountPct": 49,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 1839,
+    "delivery": 0,
+    "discountPct": 47,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 1859,
+    "delivery": 49,
+    "discountPct": 47,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Adidas Track Pants",
+  "brand": "Adidas",
+  "category": "Fashion",
+  "emoji": "👕",
+  "mrp": 3499,
+  "rating": 4.6,
+  "popularity": 78,
+  "specs": [
+   "Regular fit",
+   "Elastic waist",
+   "Zip pockets"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 1979,
+    "delivery": 0,
+    "discountPct": 43,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 1889,
+    "delivery": 149,
+    "discountPct": 46,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Myntra",
+    "price": 1959,
+    "delivery": 0,
+    "discountPct": 44,
+    "seller": "Myntra Designs",
+    "inStock": true
+   },
+   {
+    "platform": "AJIO",
+    "price": 1989,
+    "delivery": 0,
+    "discountPct": 43,
+    "seller": "AJIO Fashion",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Samsung 653L Refrigerator",
+  "brand": "Samsung",
+  "category": "Home Appliances",
+  "emoji": "❄️",
+  "mrp": 99990,
+  "rating": 4.2,
+  "popularity": 62,
+  "specs": [
+   "Side by side",
+   "Frost free",
+   "Inverter compressor"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 78399,
+    "delivery": 799,
+    "discountPct": 22,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 77099,
+    "delivery": 0,
+    "discountPct": 23,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 72099,
+    "delivery": 0,
+    "discountPct": 28,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 77499,
+    "delivery": 799,
+    "discountPct": 22,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Whirlpool 7kg Washing Machine",
+  "brand": "Whirlpool",
+  "category": "Home Appliances",
+  "emoji": "❄️",
+  "mrp": 24990,
+  "rating": 4.7,
+  "popularity": 91,
+  "specs": [
+   "Fully automatic",
+   "Top load",
+   "5-star"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 16299,
+    "delivery": 0,
+    "discountPct": 35,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 16299,
+    "delivery": 799,
+    "discountPct": 35,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 17299,
+    "delivery": 0,
+    "discountPct": 31,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 16399,
+    "delivery": 0,
+    "discountPct": 34,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "LG 8kg Front Load Washer",
+  "brand": "LG",
+  "category": "Home Appliances",
+  "emoji": "❄️",
+  "mrp": 52990,
+  "rating": 4.6,
+  "popularity": 53,
+  "specs": [
+   "AI Direct Drive",
+   "Steam wash",
+   "Inverter motor"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 38799,
+    "delivery": 799,
+    "discountPct": 27,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 37599,
+    "delivery": 799,
+    "discountPct": 29,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 39699,
+    "delivery": 799,
+    "discountPct": 25,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 39199,
+    "delivery": 0,
+    "discountPct": 26,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Daikin 1.5 Ton Inverter AC",
+  "brand": "Daikin",
+  "category": "Home Appliances",
+  "emoji": "❄️",
+  "mrp": 62990,
+  "rating": 4.3,
+  "popularity": 63,
+  "specs": [
+   "3-star",
+   "Inverter",
+   "Copper condenser"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 42999,
+    "delivery": 0,
+    "discountPct": 32,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 44499,
+    "delivery": 0,
+    "discountPct": 29,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 43999,
+    "delivery": 0,
+    "discountPct": 30,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 43899,
+    "delivery": 799,
+    "discountPct": 30,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Philips Air Fryer HD9252",
+  "brand": "Philips",
+  "category": "Home Appliances",
+  "emoji": "❄️",
+  "mrp": 11995,
+  "rating": 4.1,
+  "popularity": 64,
+  "specs": [
+   "4.1L capacity",
+   "Rapid Air",
+   "Touch panel"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 7599,
+    "delivery": 299,
+    "discountPct": 37,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 7399,
+    "delivery": 0,
+    "discountPct": 38,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 7599,
+    "delivery": 299,
+    "discountPct": 37,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 7699,
+    "delivery": 0,
+    "discountPct": 36,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Dyson V8 Vacuum",
+  "brand": "Dyson",
+  "category": "Home Appliances",
+  "emoji": "❄️",
+  "mrp": 39900,
+  "rating": 4.3,
+  "popularity": 92,
+  "specs": [
+   "Cordless",
+   "40 minute runtime",
+   "HEPA filter"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 33599,
+    "delivery": 799,
+    "discountPct": 16,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 35299,
+    "delivery": 0,
+    "discountPct": 12,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 35499,
+    "delivery": 499,
+    "discountPct": 11,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 34599,
+    "delivery": 0,
+    "discountPct": 13,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "IFB 30L Microwave",
+  "brand": "IFB",
+  "category": "Home Appliances",
+  "emoji": "❄️",
+  "mrp": 17990,
+  "rating": 4.1,
+  "popularity": 75,
+  "specs": [
+   "Convection",
+   "30L",
+   "Auto cook menus"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 11899,
+    "delivery": 299,
+    "discountPct": 34,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 11599,
+    "delivery": 499,
+    "discountPct": 36,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 11299,
+    "delivery": 799,
+    "discountPct": 37,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 12199,
+    "delivery": 299,
+    "discountPct": 32,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Havells Ceiling Fan",
+  "brand": "Havells",
+  "category": "Home Appliances",
+  "emoji": "❄️",
+  "mrp": 4590,
+  "rating": 4.4,
+  "popularity": 52,
+  "specs": [
+   "1200mm",
+   "High speed",
+   "Energy efficient"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 3119,
+    "delivery": 0,
+    "discountPct": 32,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 3059,
+    "delivery": 799,
+    "discountPct": 33,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 3009,
+    "delivery": 0,
+    "discountPct": 34,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 3089,
+    "delivery": 0,
+    "discountPct": 33,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Apple 20W USB-C Charger",
+  "brand": "Apple",
+  "category": "Accessories",
+  "emoji": "🎒",
+  "mrp": 1900,
+  "rating": 4.3,
+  "popularity": 71,
+  "specs": [
+   "20W",
+   "USB-C",
+   "Fast charging"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 1699,
+    "delivery": 0,
+    "discountPct": 11,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 1629,
+    "delivery": 0,
+    "discountPct": 14,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 1719,
+    "delivery": 40,
+    "discountPct": 10,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 1679,
+    "delivery": 0,
+    "discountPct": 12,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Anker 20000mAh Power Bank",
+  "brand": "Anker",
+  "category": "Accessories",
+  "emoji": "🎒",
+  "mrp": 4999,
+  "rating": 4.6,
+  "popularity": 56,
+  "specs": [
+   "20000mAh",
+   "22.5W fast charge",
+   "Dual output"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 2589,
+    "delivery": 0,
+    "discountPct": 48,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 2479,
+    "delivery": 0,
+    "discountPct": 50,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 2629,
+    "delivery": 99,
+    "discountPct": 47,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 2579,
+    "delivery": 0,
+    "discountPct": 48,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Logitech MX Master 3S Mouse",
+  "brand": "Logitech",
+  "category": "Accessories",
+  "emoji": "🎒",
+  "mrp": 10995,
+  "rating": 4.7,
+  "popularity": 85,
+  "specs": [
+   "8000 DPI",
+   "Quiet clicks",
+   "Multi-device"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 7699,
+    "delivery": 0,
+    "discountPct": 30,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 7999,
+    "delivery": 0,
+    "discountPct": 27,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 7999,
+    "delivery": 0,
+    "discountPct": 27,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 7799,
+    "delivery": 0,
+    "discountPct": 29,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Samsung T7 1TB Portable SSD",
+  "brand": "Samsung",
+  "category": "Accessories",
+  "emoji": "🎒",
+  "mrp": 12999,
+  "rating": 4.7,
+  "popularity": 93,
+  "specs": [
+   "1TB",
+   "1050MB/s",
+   "USB 3.2"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 9199,
+    "delivery": 0,
+    "discountPct": 29,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 9599,
+    "delivery": 0,
+    "discountPct": 26,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 9499,
+    "delivery": 0,
+    "discountPct": 27,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 9499,
+    "delivery": 0,
+    "discountPct": 27,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "SanDisk 128GB Pen Drive",
+  "brand": "SanDisk",
+  "category": "Accessories",
+  "emoji": "🎒",
+  "mrp": 1499,
+  "rating": 4.7,
+  "popularity": 53,
+  "specs": [
+   "128GB",
+   "USB 3.0",
+   "Metal body"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 929,
+    "delivery": 149,
+    "discountPct": 38,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 909,
+    "delivery": 0,
+    "discountPct": 39,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 939,
+    "delivery": 0,
+    "discountPct": 37,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 879,
+    "delivery": 0,
+    "discountPct": 41,
+    "seller": "Reliance Retail",
+    "inStock": false
+   }
+  ]
+ },
+ {
+  "name": "Wildcraft 35L Backpack",
+  "brand": "Wildcraft",
+  "category": "Accessories",
+  "emoji": "🎒",
+  "mrp": 2499,
+  "rating": 4,
+  "popularity": 72,
+  "specs": [
+   "35L",
+   "Laptop compartment",
+   "Water resistant"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 1499,
+    "delivery": 0,
+    "discountPct": 40,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 1469,
+    "delivery": 0,
+    "discountPct": 41,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 1419,
+    "delivery": 0,
+    "discountPct": 43,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 1509,
+    "delivery": 149,
+    "discountPct": 40,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ },
+ {
+  "name": "Ray-Ban Wayfarer Sunglasses",
+  "brand": "Ray-Ban",
+  "category": "Accessories",
+  "emoji": "🎒",
+  "mrp": 9990,
+  "rating": 4.7,
+  "popularity": 82,
+  "specs": [
+   "Classic frame",
+   "UV protection",
+   "Unisex"
+  ],
+  "offers": [
+   {
+    "platform": "Amazon",
+    "price": 7699,
+    "delivery": 99,
+    "discountPct": 23,
+    "seller": "Appario Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Flipkart",
+    "price": 7299,
+    "delivery": 0,
+    "discountPct": 27,
+    "seller": "RetailNet",
+    "inStock": true
+   },
+   {
+    "platform": "Croma",
+    "price": 7899,
+    "delivery": 0,
+    "discountPct": 21,
+    "seller": "Croma Retail",
+    "inStock": true
+   },
+   {
+    "platform": "Reliance Digital",
+    "price": 7499,
+    "delivery": 149,
+    "discountPct": 25,
+    "seller": "Reliance Retail",
+    "inStock": true
+   }
+  ]
+ }
+]
