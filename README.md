@@ -72,3 +72,4 @@ frontend/src/
 - Prices and history are sample data. Links open each platform's search page, not the exact listing.
 - Price drop alerts are shown inside the website only (no email or push yet).
 - Tests cover the pricing and AI logic only (`backend/test`). There are no API or UI tests yet.
+"# Pricewise" 
